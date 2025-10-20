@@ -1,0 +1,137 @@
+start:chou a gauche,berger a gauche,chevre a gauche,loup a gauche,
+finish:berger a droite,loup a droite,chou a droite,chevre a droite,
+****
+action:chevre a droite,
+preconds:chou a gauche,loup a gauche,chevre a gauche,berger a gauche,
+add:chevre a droite,berger a droite,
+delete:chevre a gauche,berger a gauche,
+****
+action:chou a droite,
+preconds:chou a gauche,loup a gauche,chevre a gauche,berger a gauche,
+add:chou a droite,berger a droite,
+delete:chou a gauche,berger a gauche,
+****
+action:loup a droite,
+preconds:chou a gauche,loup a gauche,chevre a gauche,berger a gauche,
+add:loup a droite,berger a droite,
+delete:loup a gauche,berger a gauche,
+****
+action:berger a droite,
+preconds:chou a gauche,loup a gauche,chevre a gauche,berger a gauche,
+add:berger a droite,
+delete:berger a gauche,
+****
+
+action:berger a gauche,
+preconds:chou a gauche,loup a gauche,chevre a droite,berger a droite,
+add:berger a gauche,
+delete:berger a droite,
+****
+action:chevre a gauche,
+preconds:chou a gauche,loup a gauche,chevre a droite,berger a droite,
+add:chevre a gauche,berger a gauche,
+delete:chevre a droite,berger a droite,
+****
+action:chou a droite,
+preconds:chou a gauche,loup a gauche,chevre a droite,berger a gauche,
+add:chou a droite,berger a droite,
+delete:chou a gauche,berger a gauche,
+****
+action:loup a droite,
+preconds:chou a gauche,loup a gauche,CH a droite,berger a gauche,
+add:loup a droite,berger a droite,
+delete:loup a gauche,berger a gauche,
+****
+
+action:berger a droite,
+preconds:chou a gauche,loup a gauche,chevre a droite,berger a gauche,
+add:berger a droite,
+delete:berger a gauche,
+
+****
+action:chevre a gauche,
+preconds:chou a gauche,loup a droite,chevre a droite,berger a droite,
+add:chevre a gauche,berger a gauche,
+delete:chevre a droite,berger a droite,
+****
+action:berger a gauche,
+preconds:chou a gauche,loup a droite,chevre a droite,berger a droite,
+add:berger a gauche,
+delete:berger a droite,
+****
+action:loup a gauche,
+preconds:chou a gauche,loup a droite,chevre a droite,berger a droite,
+add:loup a gauche,berger a gauche,
+delete:loup a droite,berger a droite,
+****
+action:chevre a gauche,
+preconds:chou a droite,loup a gauche,chevre a droite,berger a droite,
+add:chevre a gauche,berger a gauche,
+delete:chevre a droite,berger a droite,
+****
+action:berger a gauche,
+preconds:chou a droite,loup a gauche,chevre a droite,berger a droite,
+add:berger a gauche,
+delete:berger a droite,
+****
+action:chou a gauche,
+preconds:chou a droite,loup a gauche,chevre a droite,berger a droite,
+add:chou a gauche,berger a gauche,
+delete:chou a droite,berger a droite,
+****
+action:chou a droite,
+preconds:chou a gauche,loup a droite,chevre a gauche,berger a gauche,
+add:chou a droite,berger a droite,
+delete:chou a gauche,berger a gauche,
+****
+
+action:chevre a droite,
+preconds:chou a gauche,loup a droite,chevre a gauche,berger a gauche,
+add:chevre a droite,berger a droite,
+delete:chevre a gauche,berger a gauche,
+****
+action:berger a droite,
+preconds:chou a gauche,loup a droite,chevre a gauche,berger a gauche,
+add:berger a droite,
+delete:berger a gauche,
+****
+action:loup a droite,
+preconds:chou a droite,loup a gauche,chevre a gauche,berger a gauche,
+add:loup a droite,berger a droite,
+delete:loup a gauche,berger a gauche,
+****
+action:chevre a droite,
+preconds:chou a droite,loup a gauche,chevre a gauche,berger a gauche,
+add:chevre a droite,berger a droite,
+delete:chevre a gauche,berger a gauche,
+****
+action:berger a droite,
+preconds:chou a droite,loup a gauche,chevre a gauche,berger a gauche,
+add:berger a droite,
+delete:berger a gauche,
+****
+action:chevre a gauche,
+preconds:chou a droite,loup a droite,chevre a gauche,berger a droite,
+add:chevre a gauche,berger a gauche,
+delete:chevre a droite,berger a droite,
+****
+action:loup a gauche,
+preconds:chou a droite,loup a droite,chevre a gauche,berger a droite,
+add:loup a gauche,berger a gauche,
+delete:loup a droite,berger a droite,
+****
+action:chou a gauche,
+preconds:chou a droite,loup a droite,chevre a gauche,berger a droite,
+add:chou a gauche,berger a gauche,
+delete:chou a droite,berger a droite,
+****
+action:chevre a droite,
+preconds:chou a droite,loup a droite,chevre a gauche,berger a gauche,
+add:chevre a droite,berger a droite,
+delete:chevre a gauche,berger a gauche,
+****
+action:berger a droite,
+preconds:chou a droite,loup a droite,chevre a gauche,berger a gauche,
+add:berger a droite,
+delete:berger a gauche,
+****
